@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="7" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-11T22:46:12 IST" name="Puresoftware" finished-at="2023-07-11T22:46:12 IST" duration-ms="85">
+    <groups>
+      <group name="Smoke">
+        <method signature="Day1.second()[pri:0, instance:Day1@446293d]" name="second" class="Day1"/>
+        <method signature="Day3.MHKfck()[pri:0, instance:Day3@29d89d5d]" name="MHKfck" class="Day3"/>
+        <method signature="Tetngintro.Demo()[pri:0, instance:Tetngintro@72cde7cc]" name="Demo" class="Tetngintro"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test started-at="2023-07-11T22:46:12 IST" name="Test" finished-at="2023-07-11T22:46:12 IST" duration-ms="85">
+      <class name="Day1">
+        <test-method signature="second()[pri:0, instance:Day1@446293d]" started-at="2023-07-11T22:46:12 IST" name="second" finished-at="2023-07-11T22:46:12 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- second -->
+      </class> <!-- Day1 -->
+      <class name="Day3">
+        <test-method signature="MHKfck()[pri:0, instance:Day3@29d89d5d]" started-at="2023-07-11T22:46:12 IST" name="MHKfck" finished-at="2023-07-11T22:46:12 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MHKfck -->
+      </class> <!-- Day3 -->
+      <class name="Tetngintro">
+        <test-method signature="Demo()[pri:0, instance:Tetngintro@72cde7cc]" started-at="2023-07-11T22:46:12 IST" name="Demo" finished-at="2023-07-11T22:46:12 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo -->
+      </class> <!-- Tetngintro -->
+    </test> <!-- Test -->
+  </suite> <!-- Puresoftware -->
+</testng-results>
